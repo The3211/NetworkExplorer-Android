@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Network Explorer</string>
+    <string name="scan_devices">Scan for SMB Devices</string>
+    <string name="scanning">Scanning...</string>
+    <string name="no_devices_found">No SMB devices found</string>
+    <string name="device_list_title">SMB Devices</string>
+    <string name="browse_device">Browse Device</string>
+    <string name="back">Back</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading...</string>
+    <string name="download_complete">Download complete</string>
+    <string name="download_failed">Download failed</string>
+    <string name="error_network">Network error occurred</string>
+    <string name="error_permissions">Storage permission required</string>
+    <string name="folder">Folder</string>
+    <string name="file">File</string>
+    <string name="empty_folder">This folder is empty</string>
+    <string name="connection_failed">Failed to connect to device</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_explanation">This app needs network and storage permissions to scan for SMB devices and download files.</string>
+</resources>
